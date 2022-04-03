@@ -15,5 +15,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-[Pedro Pivatto Cavilha]https://www.linkedin.com/in/pedropivatto/
+[Pedro Pivatto Cavilha](https://www.linkedin.com/in/pedropivatto/)
 
